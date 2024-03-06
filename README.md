@@ -1,5 +1,1 @@
-# Welcome
-
-Hi, I'm Leona. I make coding projects barely.
-
-## Socials
+Hi, I'm Leona. I code sometimes.
